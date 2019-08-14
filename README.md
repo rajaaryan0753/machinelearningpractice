@@ -1,2 +1,2 @@
 # machinelearningpractice
-octave code for courseera Machine learning course instructed by Andrew ng
+<h4> Octave code for the exercises of Machine Learning </h4>
